@@ -1,1 +1,3 @@
-caniche 30 kg fractura 
+historias clinicas
+labrador 40 kg castracion 
+caniche 10kg rabia
