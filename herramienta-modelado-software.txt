@@ -1,4 +1,0 @@
-. Microsoft visio
-. ibm
-. simulink
-. vensim
