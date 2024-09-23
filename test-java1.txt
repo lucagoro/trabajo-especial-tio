@@ -1,1 +1,1 @@
-se encontró un error en la línea 45, el archivo 'java.txt' no funciona correctamente
+se encontro un error en la linea 56
