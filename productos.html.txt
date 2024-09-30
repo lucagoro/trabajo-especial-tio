@@ -1,1 +1,3 @@
 productos, juguetes y comida para animales
+correa: 2000
+alimento para perro adulto: 19000
